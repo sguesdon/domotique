@@ -5,4 +5,4 @@ services:
     container_name: home_assistant
     network: host
     volumes:
-      - /media/hdd/raspberry/home-assistant:/config
+      - /media/hdd/raspberry/home-assistant/config:/config
