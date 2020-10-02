@@ -1,0 +1,9 @@
+homeassistant:
+  name: Home
+  latitude: 47.410539
+  longitude: 0.709843
+  elevation: 430
+  unit_system: metric
+  time_zone: Europe/Paris
+  external_url: "https://home.sebastian-guesdon.fr"
+  internal_url: "http://raspberry.local:8123"
